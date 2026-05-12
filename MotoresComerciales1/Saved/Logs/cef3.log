@@ -1,0 +1,42 @@
+[12556:28036:0512/082518.527:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12556:2004:0512/082518.673:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12556:28036:0512/082518.705:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10956:14752:0512/082525.404:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F5BC8100AE4C1A2FAA37FB83271E33A8 will be ignored
+[12556:10008:0512/082927.387:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/083017.574:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/083117.584:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/083217.615:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/083321.267:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/083421.284:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/083522.956:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/083622.962:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/083732.968:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/083836.642:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/083936.654:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/084036.667:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/084144.345:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/084244.351:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/084344.361:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/084444.371:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/084548.045:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/084653.059:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/084756.739:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/084856.753:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/085000.424:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/085059.102:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/085202.783:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/085302.792:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/085402.801:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/085506.476:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/085606.486:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/085714.167:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/085819.178:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/085919.182:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/090019.193:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/090129.874:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/090228.553:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/090332.230:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/090432.239:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/090531.921:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:10008:0512/090635.436:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12556:28036:0512/090636.929:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
