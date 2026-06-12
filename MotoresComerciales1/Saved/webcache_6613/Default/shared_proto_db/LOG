@@ -1,2 +1,3 @@
-2026/05/12-08:25:22.725 50dc Creating DB C:\Users\Usuario\Documents\GitHub\Motores-comerciales-1\MotoresComerciales1\Saved\webcache_6613\Default\shared_proto_db since it was missing.
-2026/05/12-08:25:22.753 50dc Reusing MANIFEST C:\Users\Usuario\Documents\GitHub\Motores-comerciales-1\MotoresComerciales1\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/06/10-08:43:17.442 5ef0 Reusing MANIFEST C:\Users\Usuario\Documents\GitHub\Motores-comerciales-1\MotoresComerciales1\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/06/10-08:43:17.448 5ef0 Recovering log #3
+2026/06/10-08:43:17.448 5ef0 Reusing old log C:\Users\Usuario\Documents\GitHub\Motores-comerciales-1\MotoresComerciales1\Saved\webcache_6613\Default\shared_proto_db/000003.log 
