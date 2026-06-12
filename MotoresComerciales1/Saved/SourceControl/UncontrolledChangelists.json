@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/Input/Actions/IA_MoveSpecials.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/Input/IMC_Default.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/personality_sphere.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/personality_sphere1.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/personality_sphere_glass.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/personality_sphere_light_damaged.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/personality_sphere_light_damaged1.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/9M/YVQ82XKMX8FNZ3OT81YINP.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/personality_sphere_model.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/personality_sphere_model_PhysicsAsset.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/personality_sphere_model_Skeleton.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/Crouch/Crouch.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/Crouch/CrouchWalk.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/TexturAndMaterials/M_SimplePBR.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/Levels/Necropolis.umap",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/RuinedCrypt/Demo/Maps/Sublevels/L_RuinedCrypt_Lighting_01_01_Night.umap",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/RuinedCrypt/Environment/Landscape_01/t_Landscape_01_01_bc_Mat.uasset"
+			]
+		}
+	]
+}
