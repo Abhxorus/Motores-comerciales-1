@@ -13,7 +13,6 @@
 				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/personality_sphere_glass.uasset",
 				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/personality_sphere_light_damaged.uasset",
 				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/personality_sphere_light_damaged1.uasset",
-				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/9M/YVQ82XKMX8FNZ3OT81YINP.uasset",
 				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/personality_sphere_model.uasset",
 				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/personality_sphere_model_PhysicsAsset.uasset",
 				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/personality_sphere_model_Skeleton.uasset",
@@ -23,7 +22,22 @@
 				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/TexturAndMaterials/M_SimplePBR.uasset",
 				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/Levels/Necropolis.umap",
 				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/RuinedCrypt/Demo/Maps/Sublevels/L_RuinedCrypt_Lighting_01_01_Night.umap",
-				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/RuinedCrypt/Environment/Landscape_01/t_Landscape_01_01_bc_Mat.uasset"
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/RuinedCrypt/Environment/Landscape_01/t_Landscape_01_01_bc_Mat.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/Neblina.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/AI/AI_Controller.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/AI/BP_SimpleNPC.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/TX/8RSU23K0YZV0X1P9RWTCDC.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/9U/1C9EI3Z402Q40ZVEEHEFRL.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/AT/G6NI2RCRI0U6S3HOH26YJ2.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/BP_Semaforo.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/AI/BT_SimpleNPC.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/AI/BB_SimpleNPC.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/AI/BTT_ChasePlayer.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/E_EstadoSemaforo.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/AI/BTS_AnalizarEntorno.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/JF/MESZAQX5OGP3BVRKSARAT4.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/9M/YVQ82XKMX8FNZ3OT81YINP.uasset",
+				"C:/Users/Usuario/Documents/GitHub/Motores-comerciales-1/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset"
 			]
 		}
 	]
