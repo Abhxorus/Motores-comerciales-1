@@ -1,10 +1,123 @@
-[18192:7632:0922/151858.941:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[18192:17276:0922/151859.517:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[18192:7632:0922/151859.871:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[11436:22416:0922/151923.556:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-92D30B61C336D7DEEC14FEDEC8B45D9A will be ignored
-[18192:7632:0922/151932.565:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[18192:7632:0922/151942.599:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[18192:7632:0922/151947.640:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[18192:7632:0922/151957.953:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[18192:7632:0922/152049.665:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[18192:7632:0922/182150.034:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[22352:2096:0925/210006.800:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22352:15268:0925/210007.014:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[22352:2096:0925/210007.129:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[27028:16632:0925/210016.552:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5D6BB244127FCF7569D1C8D8A92C308A will be ignored
+[22352:21148:0925/210018.921:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/210218.127:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/210310.222:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/210410.049:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/210509.710:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/210619.804:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/210719.447:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/210829.557:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/210929.404:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/211039.487:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/211139.135:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/211239.421:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/211349.520:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/211449.639:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/211600.311:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/211700.340:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:2096:0925/211730.650:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[22352:21148:0925/211808.023:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/211907.687:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/212017.857:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:2096:0925/212029.873:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[22352:21148:0925/212122.514:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:2096:0925/212215.289:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[22352:21148:0925/212222.166:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/212332.529:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/212504.112:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/212614.607:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/212714.614:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/212819.469:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/212926.821:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/213023.368:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/213123.013:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/213233.176:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/213332.820:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/213432.563:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/213542.651:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/213642.293:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/213752.536:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/213852.220:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/214002.331:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/214102.121:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/214201.776:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/214311.931:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/214417.017:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/214527.457:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/214637.559:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/214737.844:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/214847.927:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/214947.589:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/215058.246:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/215157.925:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/215308.035:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/215407.882:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/215518.394:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/215628.920:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/215728.950:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/215839.624:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/215939.629:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/220050.045:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/220148.147:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/220258.246:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/220359.323:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/220538.973:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/220646.104:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/220744.298:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/220854.374:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/221004.987:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/221107.084:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/221205.175:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/221315.819:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/221413.909:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/221520.346:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/221620.359:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/221730.972:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/221830.946:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/221931.200:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/222041.287:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/222139.538:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/222244.199:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/222344.049:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/222444.767:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/222544.781:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/222644.451:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/222744.255:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/222844.340:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/222954.424:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/223054.080:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/223153.773:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/223303.966:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/223403.593:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/223514.024:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/223614.521:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/223719.662:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/223819.677:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/223954.531:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/224054.541:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/224154.192:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/224304.276:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/224403.914:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/224504.067:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/224614.717:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/224712.822:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/224828.286:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/224938.375:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/225038.017:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/225137.799:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/225237.963:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/225337.724:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/225447.800:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/225547.560:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/225657.658:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/225807.748:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/225907.378:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/230017.469:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/230127.557:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/230227.390:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/230327.170:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:21148:0925/230434.830:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22352:2096:0925/230515.683:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
